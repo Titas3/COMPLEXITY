@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\SIEVE OF ERATOSTHENES NTH PRIME NUMBER.JS",
+            "program": "${workspaceFolder}\\QUICK SORT KTH ELEMENT.JS",
             "console": "integratedTerminal"
         }
     ]
